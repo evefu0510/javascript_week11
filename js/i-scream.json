@@ -29,5 +29,11 @@
     "type": "ice-cream",
     "ingredients": ["Maple Syrup", "Mocha powder", "Mocha Base"],
     "image": "https://evefu0510.github.io/javascript_week11/images/ice-cream-xtra1.svg"
+  },{
+    "name": "Vanilla with Chocolate chips",
+    "calories": 350,
+    "type": "ice-cream",
+    "ingredients": ["Vanilla Syrup", "Chocolate chips", "Vanilla Base"],
+    "image": "https://evefu0510.github.io/javascript_week11/images/ice-cream-xtra2.svg"
   }]
 }
