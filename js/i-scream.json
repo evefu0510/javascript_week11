@@ -17,5 +17,17 @@
     "type": "milkshake-type ice-cream",
     "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
     "image": "https://evefu0510.github.io/javascript_week11/images/peach-mango.svg"
+  },{
+    "name": "Strawberry Sprinkle",
+    "calories": 300,
+    "type": "ice-cream",
+    "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
+    "image": "https://evefu0510.github.io/javascript_week11/images/strawberry-sprinkle.svg"
+  },{
+    "name": "Chocolate Mocha ",
+    "calories": 240,
+    "type": "ice-cream",
+    "ingredients": ["Maple Syrup", "Mocha powder", "Mocha Base"],
+    "image": "https://evefu0510.github.io/javascript_week11/images/ice-cream-xtra1.svg"
   }]
 }
